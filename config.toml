@@ -1,8 +1,8 @@
-# baseurl                 = "www.erikvanek.com/"               # Your domain name. Must end with "/"
+baseurl                 = "www.erikvanek.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Hi, I'm Erik"
 theme                   = "sam"
-publishDir 		= "public"
+publishDir              = "public"
 # googleAnalytics       = "UA-116349788-1"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
