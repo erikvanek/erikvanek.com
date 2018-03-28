@@ -15,6 +15,7 @@ publishDir              = "public"
     galleryFolder       = "img/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
     footerText          = "Hi. I'm Erik. Sometimes I talk a lot."
+    title               = "Erik Vaněk - personal page."
 
 # Metadata
     description         = "Hi. I'm Erik. I like to make stuff. Food, software, plants and many others."            # 
