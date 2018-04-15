@@ -40,4 +40,5 @@ via
  - mail [vanek.erik@gmail.com](mailto:vanek.erik@gmail.com),
  - phone +420 608 409 497,
  - [LinkedIn](https://www.linkedin.com/in/erikvanek/),
+ - skype vanekerik,
  - personally at Údolní 26, 602 00 Brno.

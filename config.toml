@@ -36,4 +36,4 @@ googleAnalytics       = "UA-116349788-1"             # Tracking code, eg. "UA-11
 
 [[params.mainMenu]]
     link = "/commin-up"
-    text = "but started elsewhere"
+    text = "and some more"
