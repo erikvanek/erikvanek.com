@@ -14,7 +14,7 @@ googleAnalytics       = "UA-116349788-1"             # Tracking code, eg. "UA-11
 #    homepage            = "main"                        # What to call the home page link
     galleryFolder       = "img/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Hi. I'm Erik. Sometimes I talk a lot."
+    footerText          = "Hi. I'm Erik. I like to make things butter."
     title               = "Erik Vaněk - personal page."
 
 # Metadata
